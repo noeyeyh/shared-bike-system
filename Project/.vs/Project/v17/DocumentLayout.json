@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\SignUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\signUpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\signUpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Exit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\Exit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ExitUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\ExitUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\bicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\bicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\ViewRentalInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfoUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\ViewRentalInfoUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycleUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RentBicycleUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycleUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RegisterBicycleUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOutUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\LogOutUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ExitUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\ExitUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LoginUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\LoginUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LoginUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\LoginUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\ViewRentalInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfoUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\ViewRentalInfoUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RentBicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RentBicycleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RegisterBicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RegisterBicycleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\LogOut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOutUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\LogOutUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\Login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\signUpUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\signUpUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\signUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\signUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\bicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\bicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Exit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\Exit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\Login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RentBicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\RegisterBicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D8747D-4267-4F6E-B4A1-9AF540E01618}|Project\\Project.vcxproj|solutionrelative:Project\\LogOut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewRentalInfo.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfo.h",
+              "RelativeDocumentMoniker": "Project\\ViewRentalInfo.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfo.h",
+              "RelativeToolTip": "Project\\ViewRentalInfo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T16:43:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewRentalInfoUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfoUI.h",
+              "RelativeDocumentMoniker": "Project\\ViewRentalInfoUI.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfoUI.h",
+              "RelativeToolTip": "Project\\ViewRentalInfoUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T16:43:16.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bicycle.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Bicycle.h",
+              "RelativeDocumentMoniker": "Project\\Bicycle.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Bicycle.h",
+              "RelativeToolTip": "Project\\Bicycle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T13:28:34.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Database.h",
+              "RelativeDocumentMoniker": "Project\\Database.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Database.h",
+              "RelativeToolTip": "Project\\Database.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T12:59:45.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exit.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Exit.cpp",
+              "RelativeDocumentMoniker": "Project\\Exit.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Exit.cpp",
+              "RelativeToolTip": "Project\\Exit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T18:24:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExitUI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ExitUI.cpp",
+              "RelativeDocumentMoniker": "Project\\ExitUI.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ExitUI.cpp",
+              "RelativeToolTip": "Project\\ExitUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T18:24:34.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpUI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUpUI.cpp",
+              "RelativeDocumentMoniker": "Project\\SignUpUI.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUpUI.cpp",
+              "RelativeToolTip": "Project\\SignUpUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:30:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUp.cpp",
+              "RelativeDocumentMoniker": "Project\\SignUp.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUp.cpp",
+              "RelativeToolTip": "Project\\SignUp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:33:42.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Database.cpp",
+              "RelativeDocumentMoniker": "Project\\Database.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Database.cpp",
+              "RelativeToolTip": "Project\\Database.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T12:59:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RentBicycleUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycleUI.h",
+              "RelativeDocumentMoniker": "Project\\RentBicycleUI.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycleUI.h",
+              "RelativeToolTip": "Project\\RentBicycleUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T16:28:56.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterBicycleUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycleUI.h",
+              "RelativeDocumentMoniker": "Project\\RegisterBicycleUI.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycleUI.h",
+              "RelativeToolTip": "Project\\RegisterBicycleUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T16:10:13.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogOutUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOutUI.h",
+              "RelativeDocumentMoniker": "Project\\LogOutUI.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOutUI.h",
+              "RelativeToolTip": "Project\\LogOutUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T15:52:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExitUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ExitUI.h",
+              "RelativeDocumentMoniker": "Project\\ExitUI.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ExitUI.h",
+              "RelativeToolTip": "Project\\ExitUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T18:24:18.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogInUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogInUI.h",
+              "RelativeDocumentMoniker": "Project\\LogInUI.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogInUI.h",
+              "RelativeToolTip": "Project\\LogInUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T15:31:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogInUI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogInUI.cpp",
+              "RelativeDocumentMoniker": "Project\\LogInUI.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogInUI.cpp",
+              "RelativeToolTip": "Project\\LogInUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T15:31:50.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewRentalInfo.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfo.cpp",
+              "RelativeDocumentMoniker": "Project\\ViewRentalInfo.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfo.cpp",
+              "RelativeToolTip": "Project\\ViewRentalInfo.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T16:44:10.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewRentalInfoUI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfoUI.cpp",
+              "RelativeDocumentMoniker": "Project\\ViewRentalInfoUI.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\ViewRentalInfoUI.cpp",
+              "RelativeToolTip": "Project\\ViewRentalInfoUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T16:43:39.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RentBicycle.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycle.cpp",
+              "RelativeDocumentMoniker": "Project\\RentBicycle.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycle.cpp",
+              "RelativeToolTip": "Project\\RentBicycle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T16:29:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RentBicycleUI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycleUI.cpp",
+              "RelativeDocumentMoniker": "Project\\RentBicycleUI.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycleUI.cpp",
+              "RelativeToolTip": "Project\\RentBicycleUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T16:29:15.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterBicycle.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycle.cpp",
+              "RelativeDocumentMoniker": "Project\\RegisterBicycle.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycle.cpp",
+              "RelativeToolTip": "Project\\RegisterBicycle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T16:11:08.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterBicycleUI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycleUI.cpp",
+              "RelativeDocumentMoniker": "Project\\RegisterBicycleUI.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycleUI.cpp",
+              "RelativeToolTip": "Project\\RegisterBicycleUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T16:10:23.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogOut.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOut.cpp",
+              "RelativeDocumentMoniker": "Project\\LogOut.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOut.cpp",
+              "RelativeToolTip": "Project\\LogOut.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T15:53:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogOutUI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOutUI.cpp",
+              "RelativeDocumentMoniker": "Project\\LogOutUI.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOutUI.cpp",
+              "RelativeToolTip": "Project\\LogOutUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T15:52:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LogIn.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogIn.cpp",
+              "RelativeDocumentMoniker": "Project\\LogIn.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogIn.cpp",
+              "RelativeToolTip": "Project\\LogIn.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T15:31:13.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\User.cpp",
+              "RelativeDocumentMoniker": "Project\\User.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\User.cpp",
+              "RelativeToolTip": "Project\\User.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:37:39.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Manager.cpp",
+              "RelativeDocumentMoniker": "Project\\Manager.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Manager.cpp",
+              "RelativeToolTip": "Project\\Manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T13:12:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Member.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Member.cpp",
+              "RelativeDocumentMoniker": "Project\\Member.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Member.cpp",
+              "RelativeToolTip": "Project\\Member.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T13:11:42.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SignUpUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUpUI.h",
+              "RelativeDocumentMoniker": "Project\\SignUpUI.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUpUI.h",
+              "RelativeToolTip": "Project\\SignUpUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T05:32:25.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignUp.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUp.h",
+              "RelativeDocumentMoniker": "Project\\SignUp.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\SignUp.h",
+              "RelativeToolTip": "Project\\SignUp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T05:36:12.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bicycle.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Bicycle.cpp",
+              "RelativeDocumentMoniker": "Project\\Bicycle.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Bicycle.cpp",
+              "RelativeToolTip": "Project\\Bicycle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T13:28:26.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Manager.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Manager.h",
+              "RelativeDocumentMoniker": "Project\\Manager.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Manager.h",
+              "RelativeToolTip": "Project\\Manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T13:12:35.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Member.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Member.h",
+              "RelativeDocumentMoniker": "Project\\Member.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Member.h",
+              "RelativeToolTip": "Project\\Member.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T13:12:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\User.h",
+              "RelativeDocumentMoniker": "Project\\User.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\User.h",
+              "RelativeToolTip": "Project\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T05:37:32.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\main.cpp",
+              "RelativeDocumentMoniker": "Project\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\main.cpp",
+              "RelativeToolTip": "Project\\main.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:12:42.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Exit.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Exit.h",
+              "RelativeDocumentMoniker": "Project\\Exit.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\Exit.h",
+              "RelativeToolTip": "Project\\Exit.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T18:23:41.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LogIn.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogIn.h",
+              "RelativeDocumentMoniker": "Project\\LogIn.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogIn.h",
+              "RelativeToolTip": "Project\\LogIn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T15:30:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RentBicycle.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycle.h",
+              "RelativeDocumentMoniker": "Project\\RentBicycle.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RentBicycle.h",
+              "RelativeToolTip": "Project\\RentBicycle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T16:29:32.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterBicycle.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycle.h",
+              "RelativeDocumentMoniker": "Project\\RegisterBicycle.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\RegisterBicycle.h",
+              "RelativeToolTip": "Project\\RegisterBicycle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T16:10:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LogOut.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOut.h",
+              "RelativeDocumentMoniker": "Project\\LogOut.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\shared-bike-system\\Project\\Project\\LogOut.h",
+              "RelativeToolTip": "Project\\LogOut.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T15:53:16.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
